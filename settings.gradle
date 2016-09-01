@@ -1,0 +1,1 @@
+include ':app', ':commons-logging-1.1.3', ':httpclient-4.3.4', ':httpcore-4.3.2', ':httpmime-4.3.4'
